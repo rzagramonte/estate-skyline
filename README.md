@@ -3,7 +3,7 @@ Estate Skyline LLP's website encompasses essential elements for a real estate fi
 
 **Link to project:** https://estateskylinellp.netlify.app/
 
-![alt tag](https://u.cubeupload.com/rzagramonte/estateskylinellpGitH.png)
+![landing page of Estate Skyline LLP](https://u.cubeupload.com/rzagramonte/estateskylinellpGitH.png)
 
 ## How It's Made:
 
